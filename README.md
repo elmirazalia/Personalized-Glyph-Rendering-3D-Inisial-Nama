@@ -1,3 +1,6 @@
+Nama : Elmira Farah Azalia
+NRP  : 502521197
+
 # Case Study: Personalized Glyph Rendering - 3D Inisial Nama
 Beberapa interaksi:
 - Menggerakkan dan memutar objek 3D dengan `drag` pada mouse
