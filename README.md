@@ -5,4 +5,5 @@ Beberapa interaksi:
 - Mengganti tekstur objek dengan `choose file` berupa jpg (gambar bebas)
 
 
-- Elmira Farah Azalia (502521197)
+
+Elmira Farah Azalia (502521197)
