@@ -1,4 +1,6 @@
 # Case Study: Personalized Glyph Rendering - 3D Inisial Nama
+https://elmirazalia.github.io/Personalized-Glyph-Rendering-3D-Inisial-Nama/
+
 Beberapa interaksi:
 - Menggerakkan dan memutar objek 3D dengan `drag` pada mouse
 - Melakukan zoom in dan zoom out melalui `scroll` pada mouse
